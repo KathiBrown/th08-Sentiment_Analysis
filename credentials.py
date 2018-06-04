@@ -1,9 +1,0 @@
-# Twitter App access keys for @user
-
-# Consume:
-CONSUMER_KEY    = 'ai4TyIoYF44m09BZ0bCUNDG0n'
-CONSUMER_SECRET = '7LtXhZ28LQIRIpatqZZFQINlI0wodnAPhRL1zkSwAzsr3pUxby'
-
-# Access:
-ACCESS_TOKEN  = '926553493690822656-yetXpkYoEtd9fh74LwoUhguf1JPA47t'
-ACCESS_SECRET = 'wNbSoKa3ZPZWyZwoH1cXZQdWnDWqHGluh0XBlflNH9YC7'
